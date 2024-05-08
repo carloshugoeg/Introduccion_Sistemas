@@ -1,2 +1,10 @@
+print("Datos del estudiante: ")
 print("Carlos Hugo Escobar Gómez")
 print("Carne: 1563824")
+
+print("Datos de la universidad: ")
+print("Universidad Rafael Landivar")
+print("Factultad de Ingenieria")
+print("Carrera: Ingenieria en Sistemas")
+print("Curso: Introducción a Ingenieria en Sistemas")
+print("Ingeniero Miguel Matul")
